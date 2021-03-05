@@ -1,4 +1,4 @@
-<h1 align="center">momentum-clone</h1>
+<h1 align="center">📌 momentum-clone</h1>
 
 👉 [완성작 보기](https://hyunjung-choi.github.io/momentum-clone/)
 
